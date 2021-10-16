@@ -1,0 +1,12 @@
+*{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color: #383f5d;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 18px;
+}
+a:hover{
+  color: #6d78a8;
+}
